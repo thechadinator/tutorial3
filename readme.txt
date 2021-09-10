@@ -1,3 +1,8 @@
+Finally got this project to work! Thank you Vlad and Jacob for all the help.
+
+
+
+
 ========================================================================
     C++/WinRT ConsoleApplication10 Project Overview
 ========================================================================
